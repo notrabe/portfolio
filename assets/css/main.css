@@ -2847,7 +2847,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: white;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
@@ -3038,8 +3038,8 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #222;
-				color: #fff;
+				background: black;
+				color: white;
 				min-width: 320px;
 			}
 
@@ -3084,8 +3084,8 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
-						color: #ffffff;
+						background: white;
+						color: black;
 						content: '\f0c9';
 						display: block;
 						font-size: 18px;
